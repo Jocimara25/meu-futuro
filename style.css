@@ -15,12 +15,12 @@
     
     }
     .img{
-    max-width:10%;
-    width: 100%;
+    max-width:50%;
+    height: auto;
     border-radius: 10px;
     
 }
-sonhos{
+.sonhos{
     background-color: blueviolet;
    color: black;
    padding: 20px;
@@ -29,3 +29,4 @@ sonhos{
    font-size: 18px;
    border-radius: 10px;
 }
+    
