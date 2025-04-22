@@ -15,10 +15,10 @@
     
     }
     .img{
-    max-width:20%;
+    max-width:50%;
     height: auto;
     border-radius: 10px;
-    
+    width: 20;
 }
 .sonhos{
     background-color: rgba(233, 10, 185, 0.753);
