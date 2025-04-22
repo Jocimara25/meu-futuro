@@ -15,13 +15,13 @@
     
     }
     .img{
-    max-width:40%;
+    max-width:50%;
     height: auto;
     border-radius: 10px;
     
 }
 .sonhos{
-    background-color: rgb(233, 10, 185);
+    background-color: rgba(233, 10, 185, 0.74);
    color: black;
    padding: 20px;
    margin: 20px;
